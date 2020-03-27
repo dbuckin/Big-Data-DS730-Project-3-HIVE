@@ -1,0 +1,36 @@
+1.  Output the birth city (or cities) of the player(s) who had the most at bats (AB) in his career.
+        Cincinnati
+
+2.  Output the top three ranked birthdates that had the most players born.
+        11	18
+        8	15
+        8	4
+
+3.  Output the second most common weight by rank.
+        185
+
+4.  Output the team(s) that had the most errors in 2001.
+        SDN
+        
+5.  Output the playerID(s) of the player who had the most errors in all seasons
+    combined.
+        longhe01
+
+6.  Output the playerID’s of the top 3 ranked players from 2005 through 2009 (including 2005 and 2009) 
+    who maximized the following criterion:
+    (number of hits (H) / number of at bats (AB)) – (number of errors (E) / number of games (G))
+        escobal01
+        suzukic01
+        hoppeno01
+            
+7.  Sum up the number of doubles and triples for each birthCity/birthState combination. Output the top 
+    5 ranked birthCity/birthState combinations that produced the players who had the most doubles and triples
+        Los Angeles  CA
+        Chicago	 IL	
+        Philadelphia	  PA
+        St. Louis	MO
+        San Francisco	CA
+
+8.  Output the birthMonth/birthState combination(s) that produced the worst players.
+    The worst players are defined by the lowest of: (number of hits (H) / number of at bats (AB))
+        10	San Cristobal
